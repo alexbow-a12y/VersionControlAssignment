@@ -1,0 +1,10 @@
+Game Ideas - Version Control Assignment (DIG 3779)
+
+1. Prop Plane game; Seated game where you act as a pilot delivering packages to different areas of the map for money. But, to make ends meet, you have to turn to smuggling to pay the bills. The fun part is balancing doing normal jobs and smuggling to not get caught. Home base where you live is a hangar you can edit and customize.
+
+Features:
+- Cartoon animal society 
+- 360 window view
+- Dialogue options over the phone/radio
+- Assistant that lives in same hangar 
+- Dog fights with the police and other smugglers 
