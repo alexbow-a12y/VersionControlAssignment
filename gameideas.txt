@@ -8,3 +8,15 @@ Features:
 - Dialogue options over the phone/radio
 - Assistant that lives in same hangar 
 - Dog fights with the police and other smugglers 
+
+2. 3rd person action adventure that is based off of SkyHearts world of floating islands. Follows a different story line just uses heavy inspiration from the art, technology, and world.
+
+Features:
+- Combat
+- Dialog Trees
+- Travel with ships (goes to outer ship view) and character perspectives
+- NO fast travel: part of the game is flying the ship well and maneuverability
+- Customizable ships with money
+
+
+
