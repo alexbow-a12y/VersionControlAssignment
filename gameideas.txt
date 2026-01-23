@@ -18,5 +18,19 @@ Features:
 - NO fast travel: part of the game is flying the ship well and maneuverability
 - Customizable ships with money
 
+3. Mortal Engines game. Based on the books and movie. Plays like EVE Online but less complex. The large cities move slowly and can engage in war with one another. It will be a PvPvE. 
+PvPvE features:
+- Not sure if it will be continuous play or on a server wipe basis?
+- E will be small randomly generating consumable trading cities with fluctuating generation 
+- Tectonic plate movement to open new areas of the world?
+- Hell Diver like dev involvement and effect
+- massive cities that factions can take down that come from the "north"
+
+Playing features:
+- Faster smaller leech cities and flying ships for reconnaissance and to see the map
+- Tracking and infiltration into different cities
+- Collecting resources to keep your city alive and joining factions/building cities together
+  
+
 
 
